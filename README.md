@@ -54,12 +54,15 @@ HOLIDAY TREE DECOR
 <h2>Choose Decorations</h2>
 
 <div id="items">
-  <img src="https://i.imgur.com/8Qf1x6Y.png" class="item" draggable="true">
-  <img src="https://i.imgur.com/8vQxH2x.png" class="item" draggable="true">
-  <img src="https://i.imgur.com/0m3Yp6Z.png" class="item" draggable="true">
-  <img src="https://i.imgur.com/6YQ2p7C.png" class="item" draggable="true">
-  <img src="https://i.imgur.com/0xQz1vC.png" class="item" draggable="true">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Christmas_ornament_red.png" class="item" draggable="true">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Christmas_ornament_gold.png" class="item" draggable="true">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Christmas_ornament_blue.png" class="item" draggable="true">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Candy-Cane-Icon.png" class="item" draggable="true">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Christmas_star.png" class="item" draggable="true">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Emoji_u1f381.svg" class="item" draggable="true">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Christmas_lights_icon.png" class="item" draggable="true">
 </div>
+
 
 <script>
   const treeArea = document.getElementById("tree-area");
