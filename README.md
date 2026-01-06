@@ -16,17 +16,18 @@ HOLIDAY TREE DECOR
       margin-top: 20px;
     }
 
-    #tree-area {
-      width: 350px;
-      height: 500px;
-      margin: 20px auto;
-      background-image: url('https://upload.wikimedia.org/wikipedia/commons/5/5f/Christmas_tree_2.png');
-      background-size: contain;
-      background-repeat: no-repeat;
-      position: relative;
-      border: 3px solid #0a9396;
-      border-radius: 10px;
-    }
+#tree-area {
+  width: 350px;
+  height: 500px;
+  margin: 20px auto;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/5/5f/Christmas_tree_2.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  border: 3px solid #0a9396;
+  border-radius: 10px;
+}
+
 
     .item {
       width: 60px;
